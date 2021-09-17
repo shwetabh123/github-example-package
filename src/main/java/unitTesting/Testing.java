@@ -2,12 +2,16 @@ package unitTesting;
 
 public class Testing {
 
-	public static void main(String[] args) {
+	
+	public static void display(String param) {
 		// TODO Auto-generated method stub
-		
-		
-		System.out.println("Hello");
 
+	System.out.println("hello Shwetabh "+param);
+	
+	
+	
+		
 	}
+
 
 }
